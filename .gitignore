@@ -1,3 +1,7 @@
+# Issa personal files to ignore
+.DS_Store
+testingignore.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -1,0 +1,1 @@
+This is just an example of how to upload a local file to a repository in GitHub
