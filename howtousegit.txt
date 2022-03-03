@@ -7,8 +7,12 @@ Authenticate account in gh cli
 Process to work w/ Github:
 
 1) Create Repo Online & clone locally
+1.5) 
+	git status
+	git pull
 2) Make Changes & follow 3 steps
 	git add .
 	git commit -m 'message or comment'
 	git push
+
 
