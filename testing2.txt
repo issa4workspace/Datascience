@@ -1,1 +1,14 @@
-This is just an example of how to upload a local file to a repository in GitHub
+Steps to using git
+
+Installed home-brew & gh
+Authenticate account in gh cli
+
+
+Process to work w/ Github:
+
+1) Create Repo Online & clone locally
+2) Make Changes & follow 3 steps
+	git add .
+	git commit -m 'message or comment'
+	git push
+
